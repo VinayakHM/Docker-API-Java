@@ -1,0 +1,6 @@
+version: '3'
+services:
+  javaapi:
+    image: vinayakhm/restapiimage
+    volumes:
+      - /Users/vinayakm/Documents/Docker-API-Java:/app
